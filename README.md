@@ -10,6 +10,6 @@
 
 ## Usage
 
- 1. Copy [`theme.toml`](./theme.toml] to `$HOME/.config/spotify-player/`.
+ 1. Copy [`theme.toml`](./theme.toml) to `$HOME/.config/spotify-player/`.
  2. Set your `theme` in `$HOME/.config/spotify-player/app.toml` to `Gruvbox` (e.g. `theme = "Gruvbox"`).
 
